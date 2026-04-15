@@ -1,1 +1,2 @@
 1000cps 0 delay also SAFE!
+4 START 5 STOP F6 TOGGLE
